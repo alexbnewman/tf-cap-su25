@@ -1,4 +1,4 @@
-# Cap
+# Custom Capture
 
 See comments in code for clarification on things changed/potential questions/concerns/issues with current lab implementation.
 
